@@ -1,4 +1,5 @@
 # Weather-App-VueJS
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+This repository documents the evolution of a weather application made solely with CSS, HTML, and JavaScript to an application using Vue.js and integrating the OpenWeatherMap API.
+>>>>>>> origin/main
